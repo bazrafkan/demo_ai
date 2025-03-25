@@ -1,0 +1,86 @@
+[
+  { "text": "My name is Mohammad Bazrafkan." },
+  { "text": "People also call me Kurosh as a nickname." },
+  {
+    "text": "I am a Software Engineer who passionate Mobile & Full-Stack Developer with expertise in Flutter, React, and Native Android. Adept at building scalable, high-performance applications and leading teams. Quick learner, curious, and highly adaptable in collaborative environments. Recentlly I try to learn more about AI engineering."
+  },
+  { "text": "I speak Persian, Italian, and English." },
+  { "text": "One of my hobbies is working on Automated Trading Systems." },
+  {
+    "text": "I have a Bachelor's Degree in Electronics Engineer from the University of ICT Shiraz, Iran from 2007 to 2012."
+  },
+  {
+    "text": "I completed three years of Pharmacy studies at the University of Padova  from 2013 to 2017."
+  },
+  {
+    "text": "I have an Associate Android Developer Certificate from Google Developers."
+  },
+  {
+    "text": "I have published two papers on Molecular modelling of berberine derivatives as inhibitors of human smoothened receptor and hedgehog signalling pathway using a newly developed algorithm on anti-cancer drugs in October 2017 and A Novel One-Click Automated Drug Discovery tool: A New Approach Based on Binding Efficiency Indices in April 2017."
+  },
+  {
+    "text": "I have published three apps on store: Sealo - Manage rewards and build customer relationships through digital assets and data analytics, Cycle2Work - Encourages users to bike to work, tracking CO2 savings, SP Budget - Personal finance tracker for budgeting and expenses, UGM Communicator - Manage the local communication with UGM smart gas meter through its optical port using DLMS/COSEM communication protocol."
+  },
+  {
+    "text": "I was the CEO and co-founder of NIOMIND SRL SB, Italy from May 2023 to January 2025."
+  },
+  {
+    "text": "At NIOMIND SRL SB, I Led a cross-functional team to develop scalable and high-performance web and mobile applications using Next.js, Flutter, and Firebase. Developed and integrated a custom Moodle package in PHP, enhancing e-learning capabilities and user experience. Acted as Scrum Master, optimizing team workflow and reducing development time."
+  },
+  {
+    "text": "I have worked as a Software Developer (freelance) in Italy from January 2022 to April 2023."
+  },
+  {
+    "text": "At this time (freelance from January 2022 to April 2023), I built and maintained React.js web applications and Flutter-based mobile apps, integrating them with Node.js and Firebase."
+  },
+  {
+    "text": "I have worked as a Software Developer at Pascol srl, Italy from September 2021 to December 2021."
+  },
+  {
+    "text": "At Pascol srl, I built and maintained a Shopify eCommerce platform, customizing it with Liquid and Vanilla JavaScript to improve UI/UX. Developed Flutter-based mobile apps integrated with Firebase, ensuring seamless backend communication."
+  },
+  {
+    "text": "I have worked as a Software Developer at Mondora srl sb, Italy from November 2019 to December 2021."
+  },
+  {
+    "text": "At Mondora srl sb, I developed and maintained React.js web applications and Node.js backends. Built demo mobile apps using Flutter and an Android native application in Java."
+  },
+  {
+    "text": "I have worked as a Software Developer (freelance) in Italy from March 2019 to October 2019."
+  },
+  {
+    "text": "At this time (freelance from March 2019 to October 2019), I created demo mobile applications using Flutter and Firebase."
+  },
+  {
+    "text": "I have worked as a Software Developer at Shitek Technology, Italy from October 2017 to March 2019."
+  },
+  {
+    "text": "At Shitek Technology, I developed and maintained a UWP (Universal Windows Platform) application in .NET. Integrated DLMS protocols for communication with gas meters."
+  },
+  {
+    "text": "I have worked as a Software Developer (freelance) in Italy from April 2017 to January 2018."
+  },
+  {
+    "text": "At this time (freelance from April 2017 to January 2018), I developed a CLI application in C++ using CUDA to calculate energy interactions between drug and protein molecules for drug candidate discovery."
+  },
+
+  {
+    "text": "I have worked as an Electronic Hardware Designer at FACSGAZ, IRAN from October 2010 to October 2012."
+  },
+  {
+    "text": "At FACSGAZ, I designed and developed hardware for gas meters."
+  },
+  {
+    "text": "I have worked as a Founder & Electronic Hardware Designer at SRPE, IRAN from November 2008 to March 2010."
+  },
+  {
+    "text": "At SRPE, I developed hardware solutions for electronic measurement devices."
+  },
+  {
+    "text": "My linkedin profile is https://www.linkedin.com/in/mohammad-bazrafkan-7b1b3b1a4/"
+  },
+  { "text": "My github profile is https://www.github.com/bazrafkan" },
+  {
+    "text": "My skills include React, JavaScript, Node.js, Express, DevOps, Firebase, SQL & NoSQL, Flutter, Dart, Kotlin, and Java."
+  }
+]
